@@ -1,11 +1,12 @@
-# Olá! Eu sou o Juliano Murtinho de Lima 👋
+# Sou o Juliano Murtinho de Lima 👋
 
 sobre mim:
 
-- 🔭 Técnico em informático pelo IFRS  licenciatura de geografia ufrgs
-- 🌱 tenho alguma familharidade desenvolvimento web 
-- 👯 Estou procurando colaborar em projetos educacionais
+- 💻🖱  Técnico em informático pelo IFRS licenciando em geografia pela ufrgs
+- 🌱 tenho alguma familharidade com desenvolvimento web 
+- 👯 Desenvolvedo em projeto pessoais
 - 📫 Como me encontrar: julianodelima8@gmail.com
+- Apaixonado por ciencias e artes
 
 
 
