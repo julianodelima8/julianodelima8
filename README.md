@@ -1,7 +1,5 @@
 # Sou o Juliano Murtinho de Lima 👋
 
-sobre mim:
-
 - 💻🖱  Técnico em informático pelo IFRS licenciando em geografia pela ufrgs
 - 🌱 tenho alguma familharidade com desenvolvimento web 
 - 👯 Desenvolvedo em projeto pessoais
