@@ -6,7 +6,8 @@ sobre mim:
 - 🌱 tenho alguma familharidade com desenvolvimento web 
 - 👯 Desenvolvedo em projeto pessoais
 - 📫 Como me encontrar: julianodelima8@gmail.com
-- Apaixonado por ciencias e artes
+- 😍 Apaixonado por ciências e artes
+- 📚 Em busca de aprendizado e desenvolvimento
 
 
 
