@@ -6,7 +6,7 @@ sobre mim:
 - 🌱 tenho alguma familharidade desenvolvimento web 
 - 👯 Estou procurando colaborar em projetos educacionais
 - 📫 Como me encontrar: julianodelima8@gmail.com
-- 😄 Pronomes: ele/dele
+
 
 
 ### Linguagens e Ferramentas:
