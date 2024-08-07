@@ -22,6 +22,7 @@
 ### GitHub Stats:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=julianodelima8&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianodelima8&layout=compact&theme=dracula)
 
 ### Contato:
 
